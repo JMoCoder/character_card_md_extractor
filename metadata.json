@@ -1,0 +1,5 @@
+{
+  "name": "Tavern Card MD Extractor",
+  "description": "Extract SillyTavern character card metadata from PNGs and convert it into beautiful Markdown files.",
+  "requestFramePermissions": []
+}

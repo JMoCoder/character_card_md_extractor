@@ -2,6 +2,8 @@
 
 A web tool built with React and TypeScript for extracting metadata from TavernAI / SillyTavern format character card images (PNG) and converting them into well-formatted Markdown documentation.
 
+[**🔗 Live Demo**](https://jmocoder.github.io/character_card_md_extractor/)
+
 This project integrates the Google Gemini API to automatically optimize the extracted text layout using AI, making it easier to read and share.
 
 ## ✨ Features

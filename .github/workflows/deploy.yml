@@ -31,7 +31,9 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: npm run build
+        run: |
+          npm run build
+          touch dist/.nojekyll
         env:
           # If you want to use the API Key in the deployed version, 
           # add VITE_GEMINI_API_KEY to your Repository Secrets and uncomment the line below:

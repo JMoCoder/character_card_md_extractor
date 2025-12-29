@@ -34,7 +34,7 @@ This project integrates the Google Gemini API to automatically optimize the extr
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/character_card_md_extractor.git
+   git clone https://github.com/JMoCoder/character_card_md_extractor.git
    cd character_card_md_extractor
    ```
 
